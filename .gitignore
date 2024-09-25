@@ -1,2 +1,2 @@
 .env
-some-random-file.py
+__pycache__/
